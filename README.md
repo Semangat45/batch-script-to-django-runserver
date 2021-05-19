@@ -8,7 +8,7 @@ This batch script will get the IP Adress of your computer then run the server ba
 2. double click the script file to run it.
 3. the cmd window will pop up immediately, there will be IP address shown, you can access the app with that IP address.
 
-The IP Address shown in the command prompt is the url of your app. Make sure the device is in the same network with the server.
+The IP Address shown in the command prompt is the url of your app. You have to make sure your device is in the same network with the computer server.
 <br><strong>Important to note:</strong> if you're using virtual environment in your app, you need to adjust your virtual environment folder name or change the `venv\Scripts\activate` in the script with your virtual environment's path.
 
 Have fun~
